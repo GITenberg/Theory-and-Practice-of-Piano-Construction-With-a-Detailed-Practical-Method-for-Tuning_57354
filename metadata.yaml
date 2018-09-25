@@ -1,11 +1,16 @@
 _repo: Theory-and-Practice-of-Piano-Construction-With-a-Detailed-Practical-Method-for-Tuning_57354
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57354-h/images/cover.jpg
 creator:
   author:
     agent_name: White, William B
     gutenberg_agent_id: '49332'
     url: http://www.gutenberg.org/2009/agents/49332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57354#Theory-and-Practice-of-Piano-Construction-With-a-Detailed-Practical-Method-for-Tuning
 gutenberg_issued: '2018-06-18'
 gutenberg_type: Text
 identifiers:
